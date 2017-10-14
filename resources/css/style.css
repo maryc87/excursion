@@ -8,14 +8,10 @@ h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-
-.download {
-  font-size: 16px;
-  color: aquamarine;
 }
 
 h2 {
-  font-weight: 300;
+  font-weight: 700;
   font-size: 42px;
   color: white;
 }
@@ -28,3 +24,24 @@ p {
 .copy {
    text-align: right;
  }
+
+.download {
+   font-size: 16px;
+   color: aquamarine;
+ }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+video {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.icon {
+  margin-top: 40px;
+}
